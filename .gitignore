@@ -1,0 +1,4 @@
+makefile_ex/hello
+makefile_ex/hello2
+namedpipe_ex/test_mkfifo
+randombytes_ex/randbytes

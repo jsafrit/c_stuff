@@ -1,0 +1,4 @@
+# compile the hello program with compiler warnings, 
+# debug info, and include the cs50 library
+all: hello2.c
+	gcc -g -Wall -o hello2 hello2.c -lcs50
